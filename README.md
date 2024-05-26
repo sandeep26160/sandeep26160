@@ -89,3 +89,4 @@ I am 3rd year cse(AI&ML)
 
 </table>
 </div>
+[![Sandeep-Yadav GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeep26160)](https://github.com/sandeep26160/github-readme-stats)
