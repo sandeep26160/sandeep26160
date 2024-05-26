@@ -89,4 +89,8 @@ I am 3rd year cse(AI&ML)
 
 </table>
 </div>
-[![Sandeep-Yadav GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeep26160)](https://github.com/sandeep26160/github-readme-stats)
+
+
+[![Sandeep-Yadav GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeep26160&show_icons=true&theme=tokyonight)](https://github.com/sandeep26160&show_icons=true&theme=tokyonight/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep26160&layout=compact)](https://github.com/sandeep26160&layout=compact/github-readme-stats)
